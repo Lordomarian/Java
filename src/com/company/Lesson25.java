@@ -1,4 +1,7 @@
+package com.company;
+
 import com.company.Animal;
+import com.company.Dog;
 
 public class Lesson25 {
     public static void main(String[] args) {
