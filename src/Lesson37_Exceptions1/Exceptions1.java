@@ -1,4 +1,4 @@
-package Lesson37_Exceptions;
+package Lesson37_Exceptions1;
 
 import java.io.File;
 import java.io.FileNotFoundException;
