@@ -1,4 +1,4 @@
-package com.company.Package;
+package Lesson28_Public_Private;
 
 public class Test {
     public static void main(String[] args) {

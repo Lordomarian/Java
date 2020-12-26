@@ -1,4 +1,4 @@
-package com.company.Package;
+package Lesson28_Public_Private;
 
 public class Person {
     public String name;

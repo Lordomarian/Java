@@ -1,6 +1,6 @@
 package com.company;
 
-import com.company.Package.Person;
+import Lesson28_Public_Private.Person;
 
 //Модификаторы доступа
 public class Lesson_Public_Private extends Person {
